@@ -15,6 +15,6 @@ CMakeUserPresets.json
 *.vs
 *.vscode
 *.dll
-c_cpp_properties.json
-settings.json
-main.cpp
+*c_cpp_properties.json
+*settings.json
+*main.cpp
