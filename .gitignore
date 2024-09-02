@@ -17,3 +17,4 @@ CMakeUserPresets.json
 *.dll
 c_cpp_properties.json
 settings.json
+main.cpp
