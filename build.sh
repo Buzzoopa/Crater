@@ -1,3 +1,5 @@
 #!/bin/bash
 
-g++ -o main src/main.cpp
+LIBS="-lSDL2main -lSDL2"
+
+g++ -o main src/main.cpp $LIBS
