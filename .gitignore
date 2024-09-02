@@ -10,3 +10,10 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+*.exe
+*.lib
+*.vs
+*.vscode
+*.dll
+c_cpp_properties.json
+settings.json
