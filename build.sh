@@ -7,7 +7,7 @@ LIBS="-lmingw32 -lSDL2main -lSDL2"
 INCLUDES="-Iinclude"
 
 # Source files
-SRCS="src/main.cpp src/Crater/RenderWindow.cpp"
+SRCS="src/main.cpp"
 
 # Output executable
 OUT="main"
